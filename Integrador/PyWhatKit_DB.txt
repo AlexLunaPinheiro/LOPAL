@@ -1,0 +1,45 @@
+Date: 4/6/2025
+Time: 14:28
+Phone Number: ++55 (19) 988
+Message: Olá! Esta é uma mensagem automatizada enviada usando Python.
+--------------------
+Date: 4/6/2025
+Time: 14:31
+Phone Number: +55 19 99972-0938
+Message: Olha o magu!.
+--------------------
+Date: 4/6/2025
+Time: 14:36
+Phone Number: +55 19 99972-0938
+Message: Olha o magu!.
+--------------------
+Date: 4/6/2025
+Time: 16:0
+Phone Number: +55 19 99972-0938
+Message: Estoque em 2025/06/04:Esteira 1: Estoque baixo, nível crítico!Esteira 2: Estoque médio, planejar!Esteira 3: Estoque médio, planejar!
+--------------------
+Date: 4/6/2025
+Time: 16:1
+Phone Number: +55 19 99972-0938
+Message: Estoque em 2025/06/04:Esteira 1: Estoque baixo, nível crítico!Esteira 2: Estoque médio, planejar!Esteira 3: Estoque médio, planejar!
+--------------------
+Date: 4/6/2025
+Time: 16:7
+Phone Number: +55 19 99972-0938
+Message: Estoque em 2025/06/04:Esteira 1: Estoque baixo, nível crítico!🔴Esteira 2: Estoque médio, planejar!🟡Esteira 3: Estoque médio, planejar!🟡
+--------------------
+Date: 4/6/2025
+Time: 16:26
+Phone Number: +55 19 99972-0938
+Message: Estoque em 2025/06/04:Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟡
+--------------------
+Date: 4/6/2025
+Time: 16:40
+Phone Number: +55 19 99972-0938
+Message: Estoque em 2025/06/04 às 14:53:23 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025/06/04 às 16:25:23 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🟡Estoque em 2025/06/04 às 20:00:01 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🟢
+--------------------
+Date: 4/6/2025
+Time: 16:42
+Phone Number: +55 19 99972-0938
+Message: Estoque em 2025/06/04 às 14:53:23 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025/06/04 às 16:25:23 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🟡Estoque em 2025/06/04 às 20:00:01 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🟢
+--------------------
