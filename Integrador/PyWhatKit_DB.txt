@@ -43,3 +43,33 @@ Time: 16:42
 Phone Number: +55 19 99972-0938
 Message: Estoque em 2025/06/04 às 14:53:23 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025/06/04 às 16:25:23 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🟡Estoque em 2025/06/04 às 20:00:01 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🟢
 --------------------
+Date: 5/6/2025
+Time: 16:32
+Phone Number: +55 19 99972-0938
+Message: 
+--------------------
+Date: 5/6/2025
+Time: 16:33
+Phone Number: +55 19 99972-0938
+Message: 
+--------------------
+Date: 5/6/2025
+Time: 16:35
+Phone Number: +55 19 99972-0938
+Message: 
+--------------------
+Date: 5/6/2025
+Time: 16:44
+Phone Number: +55 19 99972-0938
+Message: Estoque em 2025-06-05 às 15:35:05 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:34:55 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🟢Estoque em 2025-06-05 às 15:34:46 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025-06-05 às 15:34:35 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:34:26 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:34:16 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🟡Estoque em 2025-06-05 às 15:34:07 - Esteira 1: 🟡Esteira 2: 🟢Esteira 3: 🟢Estoque em 2025-06-05 às 15:33:57 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🟢Estoque em 2025-06-05 às 15:31:52 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:31:43 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🟢Estoque em 2025-06-05 às 15:31:33 - Esteira 1: 🟡Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025-06-05 às 15:31:24 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:31:14 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:31:05 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:56 - Esteira 1: 🟢Esteira 2: 🟡Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:46 - Esteira 1: 🟢Esteira 2: 🟡Esteira 3: 🟢Estoque em 2025-06-05 às 15:30:36 - Esteira 1: 🟡Esteira 2: 🟡Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:26 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:17 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:08 - Esteira 1: 🟡Esteira 2: 🟡Esteira 3: 🟢Estoque em 2025-06-05 às 15:29:58 - Esteira 1: 🟡Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:29:49 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟢Estoque em 2025-06-05 às 15:29:39 - Esteira 1: 🟡Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:29:29 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:29:19 - Esteira 1: 🟡Esteira 2: 🟢Esteira 3: 🟡Estoque em 2025-06-05 às 15:29:10 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025-06-05 às 15:29:00 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:28:50 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🟢Estoque em 2025-06-05 às 15:28:41 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🟢Estoque em 2025-06-05 às 15:28:30 - Esteira 1: 🟡Esteira 2: 🔴Esteira 3: 🟡Estoque em 2025-06-05 às 15:28:21 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🟡Estoque em 2025-06-05 às 15:28:11 - Esteira 1: 🟢Esteira 2: 🟡Esteira 3: 🔴Estoque em 2025-06-05 às 15:28:01 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🔴
+--------------------
+Date: 5/6/2025
+Time: 16:45
+Phone Number: +55 19 99972-0938
+Message: Estoque em 2025-06-05 às 15:35:05 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:34:55 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🟢Estoque em 2025-06-05 às 15:34:46 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025-06-05 às 15:34:35 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:34:26 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:34:16 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🟡Estoque em 2025-06-05 às 15:34:07 - Esteira 1: 🟡Esteira 2: 🟢Esteira 3: 🟢Estoque em 2025-06-05 às 15:33:57 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🟢Estoque em 2025-06-05 às 15:31:52 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:31:43 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🟢Estoque em 2025-06-05 às 15:31:33 - Esteira 1: 🟡Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025-06-05 às 15:31:24 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:31:14 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:31:05 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:56 - Esteira 1: 🟢Esteira 2: 🟡Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:46 - Esteira 1: 🟢Esteira 2: 🟡Esteira 3: 🟢Estoque em 2025-06-05 às 15:30:36 - Esteira 1: 🟡Esteira 2: 🟡Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:26 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:17 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🔴Estoque em 2025-06-05 às 15:30:08 - Esteira 1: 🟡Esteira 2: 🟡Esteira 3: 🟢Estoque em 2025-06-05 às 15:29:58 - Esteira 1: 🟡Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:29:49 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟢Estoque em 2025-06-05 às 15:29:39 - Esteira 1: 🟡Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:29:29 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🔴Estoque em 2025-06-05 às 15:29:19 - Esteira 1: 🟡Esteira 2: 🟢Esteira 3: 🟡Estoque em 2025-06-05 às 15:29:10 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🟡Estoque em 2025-06-05 às 15:29:00 - Esteira 1: 🔴Esteira 2: 🟢Esteira 3: 🔴Estoque em 2025-06-05 às 15:28:50 - Esteira 1: 🟢Esteira 2: 🟢Esteira 3: 🟢Estoque em 2025-06-05 às 15:28:41 - Esteira 1: 🔴Esteira 2: 🔴Esteira 3: 🟢Estoque em 2025-06-05 às 15:28:30 - Esteira 1: 🟡Esteira 2: 🔴Esteira 3: 🟡Estoque em 2025-06-05 às 15:28:21 - Esteira 1: 🟢Esteira 2: 🔴Esteira 3: 🟡Estoque em 2025-06-05 às 15:28:11 - Esteira 1: 🟢Esteira 2: 🟡Esteira 3: 🔴Estoque em 2025-06-05 às 15:28:01 - Esteira 1: 🔴Esteira 2: 🟡Esteira 3: 🔴
+--------------------
+Date: 5/6/2025
+Time: 16:47
+Phone Number: +55 19 99804-8226
+Message: vc achou que iria sair impune!
+--------------------
